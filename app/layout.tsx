@@ -1,0 +1,11 @@
+import type { Metadata } from 'next';
+import '@/styles/globals.css';
+
+export const metadata: Metadata = {
+  title: 'YAPONAMAMA — Искусство суши',
+  description: 'От первого зёрнышка до последнего кусочка. Интерактивная история одного ролла.',
+};
+
+export default function RootLayout({children}: Readonly<{children: React.ReactNode}>) {
+  return <html lang="ru"><body>{children}</body></html>;
+}
