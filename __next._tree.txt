@@ -1,0 +1,3 @@
+:HL["/yaponamama-art-of-sushi/_next/static/css/3b8c55d0dd8080c1.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"UoPq8wlxFU1z55tB05AR3","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
